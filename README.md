@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Learning C++, modern frontend, and diving into AI  <br>🚀 Building Nirvana – a mental wellness website<br>🎬 Video editing enthusiast with a YouTube channel
+🌱 Learning JAVA, modern frontend, and diving into AI  <br>🚀 Building Nirvana – a mental wellness website<br>🎬 Video editing enthusiast with a YouTube channel
 
 
 ## 🌐 Socials:
