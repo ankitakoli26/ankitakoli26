@@ -1,88 +1,80 @@
-<h1 align="left">👋 Hi, I'm Ankita Koli</h1>
+# 👋 Hi, I'm Ankita Koli
 
-<p align="left">
 💻 Computer Engineering Student | Aspiring Software Developer
-</p>
 
-### 🚀 About Me
+## 🚀 About Me
 
-🌱 Currently learning **Java, DSA, Modern Frontend Development and AI**
+🌱 Learning **Java, Modern Frontend Development, and AI**
 
-🚀 Building **Nirvana – a mental wellness website**
+🚀 **Built Nirvana – a Mental Wellness Website**
 
-💻 Interested in **Full Stack Development, AI/ML and Generative AI**
+💻 Interested in **Full Stack Development, AI/ML, and Generative AI**
 
 📚 Currently improving my problem-solving skills through **Data Structures & Algorithms**
 
 ---
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
+## 🛠️ Technologies & Tools
 
-<div align="left">
+<p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 
-</div>
+</p>
 
-### 🧠 Also Exploring
+---
+
+## 🧠 Also Exploring
 
 - 🤖 Artificial Intelligence & Machine Learning
 - ✨ Generative AI
 - 📊 Power BI
-- 💻 Data Structures & Algorithms
+- 📚 Data Structures & Algorithms
 
 ---
 
-<h2 align="left">🔥 GitHub Streak</h2>
+## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitakoli26&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</div>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitakoli26&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitakoli26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-<h2 align="left">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
-<div align="left">
+<p align="left">
 
-<a href="https://www.linkedin.com/in/ankita-koli-38053432b" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/ankita-koli-38053432b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@EatBeinge" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="52" height="40" alt="YouTube" />
+<a href="https://www.youtube.com/@EatBeinge">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
