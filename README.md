@@ -1,39 +1,88 @@
-# 💫 About Me:
-🌱 Learning Java, modern frontend development, and exploring AI  
-🚀 Building Nirvana – a mental wellness website  
-💻 Learning DSA with Java and building projects  
-🎬 Video editing enthusiast with a YouTube channel  
+<h1 align="left">👋 Hi, I'm Ankita Koli</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-koli-38053432b)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@EatBeinge)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koliankita3026@gmail.com)
+<p align="left">
+💻 Computer Engineering Student | Aspiring Software Developer
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🚀 About Me
 
-# 🤖 AI & Tools:
-![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-412991?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+🌱 Currently learning **Java, DSA, Modern Frontend Development and AI**
 
-# 📊 GitHub Stats:
+🚀 Building **Nirvana – a mental wellness website**
 
-![](https://github-readme-stats.vercel.app/api?username=ankitakoli26&show_icons=true&theme=tokyonight&hide_border=true)
+💻 Interested in **Full Stack Development, AI/ML and Generative AI**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankitakoli26&theme=tokyonight&hide_border=true)
+📚 Currently improving my problem-solving skills through **Data Structures & Algorithms**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitakoli26&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+<h2 align="left">🛠️ Technologies & Tools</h2>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+
+</div>
+
+### 🧠 Also Exploring
+
+- 🤖 Artificial Intelligence & Machine Learning
+- ✨ Generative AI
+- 📊 Power BI
+- 💻 Data Structures & Algorithms
+
+---
+
+<h2 align="left">🔥 GitHub Streak</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitakoli26&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</div>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitakoli26&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+</div>
+
+---
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/ankita-koli-38053432b" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
+
+<a href="https://www.youtube.com/@EatBeinge" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="52" height="40" alt="YouTube" />
+</a>
+
+</div>
 
 ---
 
